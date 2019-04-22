@@ -1,0 +1,40 @@
+C:\CC7\HW\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\CC7\HW\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\CC7\HW\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\CC7\HW\FleetSim.Console\obj\Debug\FleetSim.Console.csprojAssemblyReference.cache
+C:\CC7\HW\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\CC7\HW\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\CC7\HW\FleetSim.Console\obj\Debug\FleetSim.Console.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\obj\Debug\FleetSim.Console.csprojAssemblyReference.cache
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CopyComplete
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\obj\Debug\FleetSim.Console.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim Backup\FleetSim.Console\bin\Debug\FleetSim.dll.config
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\bin\Debug\FleetSim.dll.config
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\obj\Debug\FleetSim.Console.csprojAssemblyReference.cache
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CopyComplete
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim.Console\obj\Debug\FleetSim.Console.pdb
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe.config
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.exe
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.Console.pdb
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.dll
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.pdb
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\bin\Debug\FleetSim.dll.config
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csprojAssemblyReference.cache
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CoreCompileInputs.cache
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.csproj.CopyComplete
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.exe
+C:\CC7\HW\HW_8_FleetSim\FleetSim.Console\obj\Debug\FleetSim.Console.pdb

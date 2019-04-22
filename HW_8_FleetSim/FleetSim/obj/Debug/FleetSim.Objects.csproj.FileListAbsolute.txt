@@ -1,0 +1,28 @@
+C:\CC7\HW\FleetSim\obj\Debug\FleetSim.Objects.csprojAssemblyReference.cache
+C:\CC7\HW\FleetSim\obj\Debug\FleetSim.Objects.csproj.CoreCompileInputs.cache
+C:\CC7\HW\FleetSim\bin\Debug\FleetSim.exe.config
+C:\CC7\HW\FleetSim\bin\Debug\FleetSim.exe
+C:\CC7\HW\FleetSim\bin\Debug\FleetSim.pdb
+C:\CC7\HW\FleetSim\obj\Debug\FleetSim.exe
+C:\CC7\HW\FleetSim\obj\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\bin\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\obj\Debug\FleetSim.Objects.csprojAssemblyReference.cache
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\obj\Debug\FleetSim.Objects.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\obj\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\bin\Debug\FleetSim.dll.config
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\bin\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim Backup\FleetSim\obj\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\bin\Debug\FleetSim.dll.config
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\bin\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\bin\Debug\FleetSim.pdb
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\obj\Debug\FleetSim.Objects.csprojAssemblyReference.cache
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\obj\Debug\FleetSim.Objects.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\obj\Debug\FleetSim.dll
+C:\Users\David\Desktop\FleetSim             CURRENT VERSION\FleetSim\obj\Debug\FleetSim.pdb
+C:\CC7\HW\HW_8_FleetSim\FleetSim\obj\Debug\FleetSim.Objects.csprojAssemblyReference.cache
+C:\CC7\HW\HW_8_FleetSim\FleetSim\obj\Debug\FleetSim.Objects.csproj.CoreCompileInputs.cache
+C:\CC7\HW\HW_8_FleetSim\FleetSim\obj\Debug\FleetSim.dll
+C:\CC7\HW\HW_8_FleetSim\FleetSim\obj\Debug\FleetSim.pdb
+C:\CC7\HW\HW_8_FleetSim\FleetSim\bin\Debug\FleetSim.dll.config
+C:\CC7\HW\HW_8_FleetSim\FleetSim\bin\Debug\FleetSim.dll
+C:\CC7\HW\HW_8_FleetSim\FleetSim\bin\Debug\FleetSim.pdb
